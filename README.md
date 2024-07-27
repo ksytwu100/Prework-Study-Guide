@@ -1,13 +1,21 @@
-README
+Prework Study Guide Webpage
 
-User Story
+Description
 
-As a bootcamp student,
-I want the prework notes to be structured on a webpage,
-so that I can easily find and read information.
+This Prework Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, JaveScript, README, and LICENSE files in github.
 
-Acceptance Criteria
+Installation
 
-Given the prework project repository,
-When I view the README for the repository,
-Then I can see a professional README that provides information on the project and how to use it.
+N/A
+
+Usage
+
+To use this Prework Study Guide, you can review the notes in each section. For suggestion on what to study first, open the Chrome DevTools to find the answer.
+
+Credits
+
+N/A
+
+License 
+
+Please refer to the LICENSE in the repo.
